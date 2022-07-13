@@ -1,0 +1,33 @@
+
+body{
+  background: rgb(7, 10, 10);
+  color: aliceblue ;
+  width: auto;
+  background-size: 25%;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  color: #000;
+}
+.contenedor{
+  margin-top: 12px;
+  display: flex;
+
+}
+
+.img{
+  width: 100%;
+  height: auto;
+}
+.texto{
+  padding-left: 15px ;
+}
+div{
+   background: rgba(16, 179, 215, 0.708);
+   color: aliceblue;
+   width: auto;
+   border: 3px solid rgb(233, 241, 232);
+}
+ 
+
+/*Responsive imagen*/
